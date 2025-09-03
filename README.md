@@ -1,6 +1,6 @@
 # ⚡ SwiftMapper
 
-![SwiftMapper](Assets/SwiftMapper.png)
+![SwiftMapper](assets/SwiftMapper.png)
 
 [![NuGet](https://img.shields.io/nuget/v/SwiftMapper.svg)](https://www.nuget.org/packages/SwiftMapper/1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.txt)

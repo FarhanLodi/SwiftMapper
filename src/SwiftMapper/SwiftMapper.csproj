@@ -7,8 +7,9 @@
 		<Nullable>enable</Nullable>
 		<GenerateDocumentationFile>true</GenerateDocumentationFile>
 		<NoWarn>$(NoWarn);1591</NoWarn>
+		
 		<PackageId>SwiftMapper</PackageId>
-		<Version>1.0.0</Version>
+		<Version>1.0.1</Version>
 		<Authors>Farhan Lodi</Authors>
 		<Product>SwiftMapper</Product>
 		<Description>Fast, lightweight, and flexible object-to-object mapper for .NET with support for nested objects, lists, enums, and sub-object injection.</Description>
@@ -17,13 +18,13 @@
 		<PackageProjectUrl>https://github.com/FarhanLodi/SwiftMapper</PackageProjectUrl>
 		<PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
-		<PackageIcon>SwiftMapper.png</PackageIcon>
+		<PackageIcon>Logo.png</PackageIcon>
 	</PropertyGroup>
 
 	<ItemGroup>
-		<None Include="..\LICENSE.txt" Pack="true" PackagePath="/" />
-		<None Include="..\README.md" Pack="true" PackagePath="/" />
-		<None Include="..\Assets\SwiftMapper.png" Pack="true" PackagePath="/" />
+		<None Include="..\..\assets\Logo.png" Pack="true" PackagePath="\" CopyToOutputDirectory="Never" />
+		<None Include="..\..\LICENSE.txt" Pack="true" PackagePath="\" CopyToOutputDirectory="Never" />
+		<None Include="..\..\README.md" Pack="true" PackagePath="\" CopyToOutputDirectory="Never" />
 	</ItemGroup>
 
 </Project>
