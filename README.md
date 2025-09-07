@@ -2,9 +2,9 @@
 
 ![SwiftMapper](assets/SwiftMapper.png)
 
-[![NuGet](https://img.shields.io/nuget/v/SwiftMapper.svg)](https://www.nuget.org/packages/SwiftMapper/1.0.0)
+[![NuGet](https://img.shields.io/nuget/v/SwiftMapper.svg)](https://www.nuget.org/packages/SwiftMapper)
+  [![NuGet Downloads](https://img.shields.io/nuget/dt/SwiftMapper.svg)](https://www.nuget.org/packages/SwiftMapper)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.txt)
-[![Build](https://img.shields.io/github/actions/workflow/status/<your-username>/SwiftMapper/build.yml?branch=main)](https://github.com/<your-username>/SwiftMapper/actions)
 
 SwiftMapper is a **fast, lightweight object-to-object mapper** for .NET.  
 Inspired by AutoMapper, but optimized for **simplicity and speed**.
