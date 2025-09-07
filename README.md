@@ -1,6 +1,6 @@
 # ⚡ SwiftMapper
 
-![SwiftMapper](assets/SwiftMapper.png)
+![SwiftMapper](Assets/SwiftMapper.png)
 
 [![NuGet](https://img.shields.io/nuget/v/SwiftMapper.svg)](https://www.nuget.org/packages/SwiftMapper)
   [![NuGet Downloads](https://img.shields.io/nuget/dt/SwiftMapper.svg)](https://www.nuget.org/packages/SwiftMapper)
