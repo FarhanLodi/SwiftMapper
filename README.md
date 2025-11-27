@@ -127,3 +127,16 @@ Contributions are welcome! 🎉
 MIT License – see [LICENSE.txt](LICENSE.txt).
 
 ---
+
+## 💖 Donations
+
+If you find this project useful and want to support its development, you can contribute using any of the methods below:
+
+- 💳 **PayPal** — [paypal.me/FarhanLodi](https://www.paypal.com/paypalme/FarhanLodi)
+- 📱 **UPI (India)** — `farhanlodi5@oksbi`
+- 🙏 **Donation Page** — See the full details here: [DONATION.md](DONATION.md)
+
+Your support helps keep this project active and growing. Thank you! ❤️
+
+---
+
